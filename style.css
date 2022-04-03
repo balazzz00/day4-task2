@@ -1,0 +1,127 @@
+#box1{
+    float: left;
+    background-color: rgb(19,36,54);
+    width: 25%;
+    height: 500px;
+    text-align: center;
+    row-gap: 30px;
+    margin: 30px;
+    color: white; 
+    
+}
+#box2{
+    float: left;
+    background-color: rgb(19, 36, 54);
+    width: 25%;
+    height: 500px;
+    text-align: center;
+    row-gap: 30px;
+    margin: 30px;
+    color: white; 
+    
+}
+#box3{
+    float: left;
+    background-color: rgb(19,36,54);
+    width: 25%;
+    height: 500px;
+    text-align: center;
+    row-gap: 30px;
+    margin: 30px;
+    color: white; 
+}
+#col1{
+    background-color: rgb(219, 78, 78);
+    height: 60px;
+    font-size:xx-large;
+    color: white; 
+}
+#col{
+    background-color: rgb(145, 145, 233);
+    height: 60px;
+    font-size:xx-large;
+    color: white; 
+}
+#col2{
+    background-color: rgb(247, 211, 8);
+    height: 60px;
+    font-size:xx-large;
+    color: white; 
+}
+#ss{
+    height: 110px;
+    font-size: 50px;
+    padding: 20px;
+    position: relative;
+    top: 30px;  
+    color: white;   
+}
+#vv{
+    height: 110px;
+    font-size: 50px;
+    padding: 20px;
+    position: relative;
+    top: 30px;
+    color: white; 
+}
+#kk{
+    height: 110px;
+    font-size: 50px;
+    padding: 20px;
+    position: relative;
+    top: 30px;
+    color: white; 
+}
+#mon{
+    position: relative;
+    bottom: 45px;
+    color: white; 
+}
+#mon1{
+    position: relative;
+    bottom: 45px;
+    color: white; 
+}
+#mon2{
+    position: relative;
+    bottom: 45px;
+    color: white; 
+}
+#dom1{
+    height: 40px;
+    color: white;
+    position: relative;
+    top: 15px;
+}
+#dom2{
+    height: 40px;
+    color: white;
+    position: relative;
+    top: 15px ;
+}
+#dom3{
+    height: 40px;
+    color: white;
+    position: relative;
+    top: 15px;
+}
+#add{
+    height: 40px;
+    color: white;
+    position: relative;
+    top: 15px; 
+}
+#yr{
+    height: 50px;
+    color: white;
+    position: relative;
+    top: 15px  
+}
+#buy{
+    height: 40px;
+    color: white;
+    position: relative;
+    top: 15px;
+    font-size: xx-large;
+   
+}
